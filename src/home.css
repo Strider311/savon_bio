@@ -1,0 +1,54 @@
+/* INFO */
+
+.info {
+  color: black;
+
+  padding: 50px 10px;
+}
+
+.info .Title {
+  padding: 15px 0;
+  font-size: 30px;
+  text-align: center;
+}
+
+.info .learnmore {
+  margin: auto;
+  width: 30%;
+  padding: 10px 0;
+  text-align: center;
+}
+
+/* Showcase */
+.showcase {
+  color: #000;
+  height: auto;
+  background-color: var(--primary-color);
+  position: relative;
+}
+
+.showcase h1 {
+  font-size: 40px;
+  padding: 10px 0px;
+}
+.showcase-text p {
+  font-family: Kalam;
+  margin: 20px 0;
+  padding: 0 10px;
+}
+
+.showcase .showcase-image {
+  padding: 0px;
+  object-fit: none;
+}
+
+.showcase-form {
+  background-color: var(--primary-color);
+}
+
+.showcase .deals {
+  margin: auto;
+  width: 30%;
+  padding: 10px 0;
+  text-align: center;
+}
