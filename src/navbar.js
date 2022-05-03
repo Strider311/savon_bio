@@ -10,7 +10,6 @@ const NavBar = () => {
             <img className="logo__img" src="images/Web_Logo.png" alt="Logo" />
             <h1 className="logo__txt">Savon bio...</h1>
           </div>
-          <h3 className="moto">Nature for all</h3>
           <div className="nav">
             <nav>
               <ul>

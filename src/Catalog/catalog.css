@@ -51,3 +51,23 @@ img {
     text-align: center;
     color: black;
 }
+
+.soap-entry{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 20px;
+    gap: 30px;
+    
+}
+
+.single-soap{
+    color: black;
+    text-align: center;
+
+}
+
+.single-soap img{
+    border-radius: 5px;
+    width: 90%;
+}
+

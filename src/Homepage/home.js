@@ -9,7 +9,7 @@ const HomePage = () => {
       <section className="showcase">
         <div className="container grid-index">
           <div className="showcase-text">
-            <h1>Made with Love</h1>
+            <h1 className="moto">Nature for all</h1>
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Mollitia
               numquam quidem aut, ipsam corrupti culpa obcaecati vel eveniet!
