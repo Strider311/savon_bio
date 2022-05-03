@@ -16,7 +16,7 @@ const HomePage = () => {
               Temporibus, ipsa.
             </p>
             <div className="showcase-image">
-              <img src="images/Savon_Bio-01 .jpg" alt="collection" />
+              <img src="images/Savon_Bio-01.jpg" alt="collection" />
             </div>
             {/* <div className="deals">
               <a href="offers.html" className="btn btn-outline">
@@ -64,7 +64,7 @@ const HomePage = () => {
       <section className="showcase">
         <div className="container grid-index">
           <div className="showcase-image">
-            <img src="images/Savon_Bio-02 .jpg" alt="collection two" />
+            <img src="images/Savon_Bio-02.jpg" alt="collection two" />
           </div>
         </div>
       </section>

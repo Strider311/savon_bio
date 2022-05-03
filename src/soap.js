@@ -5,7 +5,7 @@ const Soap = [
     description: `Exfoliating soap with shea butter and anti-bacterial properties from tea tree oil that reduces acne, leaving skin moisturized and vibrant.
 Ingredients include Orange peel, Shea butter, Vitamin E and Tea tree oil.
 `,
-    img: "/images/Citrus .jpg",
+    img: "/images/Citrus.jpg",
     price: 30,
   },
   {
@@ -14,14 +14,14 @@ Ingredients include Orange peel, Shea butter, Vitamin E and Tea tree oil.
     description: `Coconut infused super hydrating soap with Vitamin E that leaves your skin clean and moisturized.
 Excellent for a refreshing bath with fresh scent of Jasmine.
 `,
-    img: "/images/Sea_Shell .jpg",
+    img: "/images/Sea_Shell.jpg",
     price: 30,
   },
   {
     id: 3,
     name: "Sahara",
     description: `Charming blend of Oud and Sandel wood oils with benefits of Camel milk, Olive oil, Cocoa butter and Coconut Oil; leaving you refreshed.`,
-    img: "/images/Sahara .jpg",
+    img: "/images/Sahara.jpg",
     price: 30,
   },
   {
@@ -31,7 +31,7 @@ Excellent for a refreshing bath with fresh scent of Jasmine.
 Use Lavender Dream for stress relief and relaxation.
 rich in Olive oil, Coconut oil Cocoa butter.
 `,
-    img: "/images/Lavender Dream .jpg",
+    img: "/images/LavenderDream.jpg",
     price: 30,
   },
   {
@@ -42,7 +42,7 @@ Honey is one of nature’s most revered skin remedies. Thanks to its anti-bacter
 Keeps skin hydrated and nourished.
 In addition, the Oats layer aids in exfoliating.
 `,
-    img: "/images/Breakfast .jpg",
+    img: "/images/Breakfast.jpg",
     price: 30,
   },
   {
@@ -50,7 +50,7 @@ In addition, the Oats layer aids in exfoliating.
     name: "Aloe Vera",
     description: `Perfect for Sensitive Skin as it contains a combination of Aloevera gel, Aloevera oil and Vitamin E Which relieves skin irritation and moisturizes it.
 Aloevera has a great effect in slowing down ageing as well.`,
-    img: "/images/Aloe Vera .jpg",
+    img: "/images/AloeVera.jpg",
     price: 30,
   },
   {
@@ -60,21 +60,21 @@ Aloevera has a great effect in slowing down ageing as well.`,
 Contains camel milk that helps stimulate collagen production and elastin which maintain Skin elasticity.
 Ingredients also include Shea butter, Cocoa butter, Avocado oil, Olive oil, Coconut oil and Vitamin E.
 `,
-    img: "/images/Mother Nature .jpg",
+    img: "/images/MotherNature.jpg",
     price: 30,
   },
   {
     id: 8,
     name: "Arabian Nights",
     description: `Camel Milk with Shea butter and Vitamin E that blends perfectly with Olive oil and Coconut oil, forms a perfect anti-ageing formula by tightening and moisturizing your skin.`,
-    img: "/images/Arabian Nights .jpg",
+    img: "/images/ArabianNights.jpg",
     price: 30,
   },
   {
     id: 9,
     name: "Candy Brush",
     description: `Enjoy a bubbly bath with our loofah massage All-in-one soap with grapeseed oil which softens and soothes your skin.`,
-    img: "/images/Candy Brush.jpg",
+    img: "/images/CandyBrush.jpg",
     price: 30,
   },
 ];
