@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import "../catalog.css";
 import soap from "../../soap.js";
 import SoapComponent from "./soapComponent";

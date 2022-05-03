@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./catalog.css";
-import soap from "../soap.js";
+// import soap from "../soap.js";
 
 const Catalog = () => {
   return (
