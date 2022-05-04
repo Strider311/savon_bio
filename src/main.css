@@ -50,6 +50,7 @@ img {
 }
 .navbar .main-title{
   display: inline-flex;
+  color: var(--primary-color);
 }
 .navbar .logo__img {
   display: flex;

@@ -6,10 +6,12 @@ const NavBar = () => {
     <>
       <div className="navbar">
         <div className="container flex">
-          <div className="main-title">
-            <img className="logo__img" src="images/Web_Logo.png" alt="Logo" />
-            <h1 className="logo__txt">Savon bio...</h1>
-          </div>
+          <Link to="/">
+            <div className="main-title">
+              <img className="logo__img" src="images/Web_Logo.png" alt="Logo" />
+              <h1 className="logo__txt">Savon bio...</h1>
+            </div>
+          </Link>
           <div className="nav">
             <nav>
               <ul>

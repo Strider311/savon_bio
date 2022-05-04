@@ -63,11 +63,23 @@ img {
 .single-soap{
     color: black;
     text-align: center;
-
+    border-bottom: 1px solid #D3D3D3;
+    border-top: 1px solid #D3D3D3;
+    border-radius: 5px;
+    padding: 10px;
+    
 }
 
+
 .single-soap img{
+    padding-top: 5px;
     border-radius: 5px;
     width: 90%;
 }
+
+.single-soap h4{
+    border: solid #D3D3D3 1px;
+    padding: 5px;
+}
+
 
