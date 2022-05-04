@@ -53,10 +53,10 @@ img {
 }
 
 .soap-entry{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    
     padding: 20px;
     gap: 30px;
+    padding-top: 10px;
     
 }
 
@@ -64,17 +64,18 @@ img {
     color: black;
     text-align: center;
     border-bottom: 1px solid #D3D3D3;
-    border-top: 1px solid #D3D3D3;
+    border: 1px solid #D3D3D3;
     border-radius: 5px;
-    padding: 10px;
+    padding: 20px;
+    background-color: #fff4db ;
+    margin-top: 20px;
     
 }
-
 
 .single-soap img{
     padding-top: 5px;
     border-radius: 5px;
-    width: 90%;
+    width: 80%;
 }
 
 .single-soap h4{
@@ -82,4 +83,7 @@ img {
     padding: 5px;
 }
 
+.single-soap button{
+    background-color: var(--primary-color);
+}
 
