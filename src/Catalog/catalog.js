@@ -10,14 +10,14 @@ const Catalog = () => {
         <div className="grid-container">
           <Link to="/catalog/soaps">
             <section className="product-family">
-              <h3>Soap Collection</h3>
               <img src="images/Savon_Bio-01.jpg" alt="Soap collection"></img>
+              <h3>Soap Collection</h3>
             </section>
           </Link>
-          <Link to="/">
+          <Link to="/catalog/beauty-products">
             <section className="product-family">
-              <h3>Beauty products</h3>
               <img src="images/Savon_Bio-02.jpg" alt="Soap collection"></img>
+              <h3>Beauty products</h3>
             </section>
           </Link>
         </div>

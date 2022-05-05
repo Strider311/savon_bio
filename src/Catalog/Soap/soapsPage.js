@@ -7,6 +7,7 @@ const SoapPage = () => {
   return (
     <div className="showcase">
       <div className="container">
+        <h3>Our collection of fully natural and handmade soaps</h3>
         <div className="soap-entry">
           {soap.map((soap) => {
             return (
